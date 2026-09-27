@@ -22,6 +22,8 @@ const CITIES = {
 
 // Base de lanzamiento del villano (isla secreta a mitad del Atlántico, claro)
 const ORIGIN = { lat: 30.0, lon: -20.0 };
+const ORIGIN2 = { lat: 320.0, lon: -90.0 };
+
 
 // ---- Constantes ajustables ----
 const MISSILE_DURATION_BASE_MS = 10000;   // tiempo mínimo de vuelo
